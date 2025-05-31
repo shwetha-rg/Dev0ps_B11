@@ -1,0 +1,1 @@
+reset is the cmand we use when want to move the resporitory
